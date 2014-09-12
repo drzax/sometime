@@ -1,0 +1,27 @@
+{
+  "name": "sometime",
+  "version": "0.0.0",
+  "description": "A library for parsing inexact human dates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:drzax/sometime.git"
+  },
+  "keywords": [
+    "dates",
+    "date",
+    "time",
+    "fuzzy",
+    "inexact",
+    "parse"
+  ],
+  "author": "Simon Elvery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drzax/sometime/issues"
+  },
+  "homepage": "https://github.com/drzax/sometime"
+}
